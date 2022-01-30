@@ -1,0 +1,126 @@
+/* ==================================================================
+ Typography
+================================================================== */
+
+@import '../fonts/Futura/stylesheet.css';
+
+
+body,
+body * {
+	/*font-family: 'Futura Std', 'Helvetica', sans-serif !important;*/
+}
+
+/*[class^="icon-"], [class*=" icon-"] {
+	    font-family: 'pixflow-font-library' !important;
+}
+
+#wpadminbar * {
+	    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif !important;
+}
+
+#wpadminbar .ab-icon, #wpadminbar .ab-item:before, #wpadminbar>#wp-toolbar>#wp-admin-bar-root-default .ab-icon {
+	    font: normal 20px/1 dashicons !important;
+}
+
+#wpadminbar .pixflow_custom_links a:before {
+	    font: 400 13px/1 pixflow-font-library !important;
+}
+
+.pixflow-builder .pixflow-shortcodes-panel p, .pixflow-builder .pixflow-shortcodes-panel h6, .pixflow-builder-toolbar a, .pixflow-add-element-button, .mBuilder_setting_panel span, .mBuilder_row_layout label, .mBuilder_row_layout span, .mbuilder-column-options span, .mbuilder-column-options a, .settings-holder a, .settings-holder span {
+	    font-family: 'builder-font' !important;
+}
+
+.mce-btn-small .mce-ico {
+    font-family: 'tinymce-small',Arial !important;
+}*/
+
+
+/* ==================================================================
+ General
+================================================================== */
+
+#layoutcontainer .gather-overlay.active a.logo {
+	display: none;
+}
+
+.background--light .bullet-active span {
+	    background-color: #00587b;
+}
+
+.background--light span {
+	    background-color: rgba(195, 226, 239, 0.4);
+}
+
+body.home .gather-overlay + .layout {
+	-webkit-transform: initial !important;
+	-ms-transform: initial !important;
+	-o-transform: initial !important;
+	transform: initial !important;
+}
+
+
+
+/* ==================================================================
+ Header
+================================================================== */
+
+header.top-gather .logo img {
+	    max-width: 153px;
+}
+
+.gather-overlay {
+	    opacity: 1 !important;
+background-color: #00587b !important;
+}
+
+
+/* ==================================================================
+ Home
+================================================================== */
+
+.row-intro .shortcode-btn .fade-square {
+        border-radius: 0;
+    border: 3px solid #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    /*margin-top: 70px;*/
+        font-size: 16px;
+            padding-top: 15px !important;
+
+}
+
+.row-intro .shortcode-btn .fade-square i {
+    position: relative;
+    top: -1px;
+    font-size: 15px;
+    padding-right: 3px;
+}
+
+    
+.row-intro .shortcode-btn .fade-square:hover span{
+	color: #00587b;
+}
+
+.row-intro .shortcode-btn .fade-square:hover i {
+color: #00587b;	
+}
+
+
+.row-progetto .md-text-content * li {
+	font-family: 'Futura Std' !important;
+	margin-left: 17px !important;
+} 
+
+.row-servizi .md-text-content * li {
+	    margin-left: 17px !important;
+	        font-size: 16px;
+    color: #fff;
+        margin-bottom: 5px;
+
+}
+
+
+
+/* ==================================================================
+ Section
+================================================================== */

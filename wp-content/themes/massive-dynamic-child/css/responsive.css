@@ -1,0 +1,155 @@
+@media (min-width: 1281px) {
+
+	.second-header-bg {
+    height: 90px !important;
+    background-color: #00587b !important;
+	}
+
+	header.top-gather .logo.item-left img {
+	    margin-top: 9px !important;
+	}
+
+	header.top-gather .gather-btn {
+	    margin-top: 9px !important;
+	}
+
+	
+
+} /* @media (min-width: 1281px) */
+
+
+
+
+
+@media (max-width: 1280px) {
+
+		
+	header .navigation-button span {
+		font-size: 43px;
+    /*color: #fff;*/
+    line-height: normal;	
+	}
+
+	.navigation-mobile.header-light .search-form {
+		    display: none;
+	}
+	
+
+	.navigation-mobile {
+		    padding: 20px 30px !important;
+	}
+
+	header .navigation-button {
+		    margin-top: -5px;
+
+	}
+
+	.row-verticali .symbol-title:before {
+		display: none !important;
+	}
+
+	.navigation-mobile.header-light a {
+	color: #00587b;
+    font-family: 'Futura Std', sans-serif;
+    font-size: 16px;
+	}
+
+	
+
+} /* @media (max-width: 1280px)*/
+
+
+@media (max-width: 1270px) {
+	.row-progetto ul,
+	.row-servizi ul {
+    list-style-position: inside;
+	}
+
+} /*@media (max-width: 1270px) */
+
+
+@media (max-width: 1199px) {}
+
+@media (max-width: 991px) {
+
+
+
+} /* @media (max-width: 991px) */ 
+
+
+@media  (min-width: 768px) and (max-width: 991px) {
+	
+	body .responsive-col-50 {
+		    width: 25% !important;
+	}
+
+	/*body .vc_row.fit-to-height {
+		height: auto !important;
+	}*/
+
+} /* @media  (min-width: 768px) and (max-width: 991px)*/
+
+
+
+
+
+@media (min-width: 768px) {
+	
+	.row-verticali .symbol-title:before {
+	content: '';
+	    display: inline-block;
+	    width: 41px;
+	    height: 40px;
+	    position: absolute;
+	    background: url(/wp-content/uploads/simbolo-progetti.svg) no-repeat;
+        left: -34px;
+    top: -21px;
+    background-size: 100%;
+    z-index: -1;
+	}
+
+	.row-verticali .symbol-title {
+    	min-height: 66px;
+	}
+
+	body .vc_row.fit-to-height {
+		height: auto !important;
+	}
+
+
+
+
+
+} /* @media (min-width: 768px) */ 
+
+
+
+@media (max-width: 767px) {}
+
+@media (max-width: 480px) {
+
+	
+
+	.row-intro {
+		padding-top: 0 !important;
+	}
+
+	.row-intro .md-text-content {
+		margin-bottom: 20px !important;
+	}
+
+	.row-intro .md-text-content span {
+		    font-size: 50px !important;
+	}
+
+	/*header.top-gather.header-style3.top.header-light {
+		    position: fixed !important;
+	}*/
+
+
+
+} /* @media (max-width: 480px) */ 
+
+@media (max-width: 320px) {}
+
+

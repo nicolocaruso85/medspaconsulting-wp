@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-BookOblique.woff2') format('woff2'),
+        url('FuturaStd-BookOblique.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-ExtraBoldOblique.woff2') format('woff2'),
+        url('FuturaStd-ExtraBoldOblique.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Book.woff2') format('woff2'),
+        url('FuturaStd-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-HeavyOblique.woff2') format('woff2'),
+        url('FuturaStd-HeavyOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedExtraBd.woff2') format('woff2'),
+        url('FuturaStd-CondensedExtraBd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Bold.woff2') format('woff2'),
+        url('FuturaStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondExtraBoldObl.woff2') format('woff2'),
+        url('FuturaStd-CondExtraBoldObl.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-BoldOblique.woff2') format('woff2'),
+        url('FuturaStd-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Medium.woff2') format('woff2'),
+        url('FuturaStd-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-LightOblique.woff2') format('woff2'),
+        url('FuturaStd-LightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedBold.woff2') format('woff2'),
+        url('FuturaStd-CondensedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Condensed.woff2') format('woff2'),
+        url('FuturaStd-Condensed.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedLightObl.woff2') format('woff2'),
+        url('FuturaStd-CondensedLightObl.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedOblique.woff2') format('woff2'),
+        url('FuturaStd-CondensedOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedBoldObl.woff2') format('woff2'),
+        url('FuturaStd-CondensedBoldObl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-ExtraBold.woff2') format('woff2'),
+        url('FuturaStd-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Light.woff2') format('woff2'),
+        url('FuturaStd-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-MediumOblique.woff2') format('woff2'),
+        url('FuturaStd-MediumOblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-Heavy.woff2') format('woff2'),
+        url('FuturaStd-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura Std';
+    src: url('FuturaStd-CondensedLight.woff2') format('woff2'),
+        url('FuturaStd-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
