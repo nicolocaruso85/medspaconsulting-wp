@@ -25,13 +25,13 @@
 
 // ** Impostazioni MySQL - È possibile ottenere queste informazioni dal proprio fornitore di hosting ** //
 /** Il nome del database di WordPress */
-define( 'DB_NAME', 'medspaconsulting' );
+define( 'DB_NAME', 'wjqefbsy_medspaconsulting-wp' );
 
 /** Nome utente del database MySQL */
-define( 'DB_USER', 'medspaconsulting' );
+define( 'DB_USER', 'wjqefbsy_medspaconsulting' );
 
 /** Password del database MySQL */
-define( 'DB_PASSWORD', 'B43@/!xr`KhFWw__' );
+define( 'DB_PASSWORD', 'qwepoi123098' );
 
 /** Hostname MySQL  */
 define( 'DB_HOST', 'localhost' );
